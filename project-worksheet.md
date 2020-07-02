@@ -80,12 +80,11 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Create title page | H | 3hrs| 3.5hrs | 2h |
-| Create disclaimer page | H | 3hrs| 1.5 | 2h |
+| Create title page | H | 3hrs| -- | 2h |
+| Create disclaimer page | H | 3hrs| -- | 2h |
 | Set home page | H | 2hrs | -- | 2h |
 | Make nav bar | H | 1hr | -- | 1.5h |
 | Load Images | H | 2hrs | -- | 2h |
-| Create grid for images | H | 1.5 | -- | -- |
 | Make Api Call | H | 2hr | -- | 4h |
 | Setup Routes | H | 2hrs | -- | 3.5h |
 | Load Drinks List and About pages | H | 3hrs | -- | 3h |
@@ -95,7 +94,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total | H | 26hrs| 0hrs | 30.5hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
+ 
 
 ## Code Snippet
 
